@@ -26,7 +26,7 @@ The project begins with a simulated smart ambient light inspired by modern mood-
 
 - [x] Day 1 — SmartLight class and ON/OFF state management
 - [x] Day 2 — Python package structure and automated tests
-- [ ] Day 3 — Brightness and RGB color control
+- [x] Day 3 — Brightness and RGB color control
 - [ ] Day 4 — Device state validation
 - [ ] Day 5 — MQTT communication
 - [ ] Day 6 — MQTT state reporting
