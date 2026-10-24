@@ -1,5 +1,5 @@
 # 
-from smarthoi.smart_light import SmartLight
+from smart_aurora_light.smart_light import SmartLight
 import pytest
 
 # 

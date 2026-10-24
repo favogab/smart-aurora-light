@@ -1,19 +1,18 @@
-# 
 [build-system]
 requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "smarthoi"
+name = "smart-aurora-light"
 version = "0.1.0"
-description = "A secure smart-home IoT control and automation system"
+description = "A Python-based smart ambient lighting and IoT automation project"
 requires-python = ">=3.10"
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]
 
 [tool.setuptools.packages.find]
-include = ["smarthoi*"]
+include = ["smart_aurora_light*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
